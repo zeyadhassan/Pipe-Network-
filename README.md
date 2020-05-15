@@ -1,4 +1,3 @@
 # Pipe-Network-
-This Project aims for the computational design of a pipe network for a village in Bavaria state in Germany using C++ code
-this is trial 1
-lk
+This Project aims for the computational design of a pipe network for a village in Bavaria state in Germany using C++ code on visual studio platform
+
